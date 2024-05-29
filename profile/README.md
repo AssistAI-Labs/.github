@@ -30,7 +30,7 @@ We are always seeking talented and passionate individuals to join our team. If y
 
 Follow us on social media to stay updated on our latest advancements, projects, and insights into the world of AI and intelligent automation.
 
-https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png 
+[https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png ](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true)
 
 Link to your Twitter page
 
