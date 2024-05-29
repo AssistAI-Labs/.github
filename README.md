@@ -1,1 +1,1 @@
-## This repository contains the porfile readme section. 
+## This repository contains the profile readme section. 
