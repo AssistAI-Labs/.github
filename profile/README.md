@@ -26,6 +26,7 @@
     <main>
         <section class="about-us" id="about-us">
             <h2>About Us</h2>
+            https://www.canva.com/design/DAGGm1LMGiY/aPHCoJtlxlGE06rkV2zdkQ/view?utm_content=DAGGm1LMGiY&utm_campaign=designshare&utm_medium=link&utm_source=editor
             <p>
                 <img src="images/teamwork.jpg" alt="A group of people working together on a project">
                 AssistAI Labs is a company driven by the potential of artificial intelligence (AI) to revolutionize how we work and live. We design and develop intelligent robots that bridge the gap between human ingenuity and machine automation. Our team of passionate engineers, designers, and AI specialists is dedicated to creating robots that are:
