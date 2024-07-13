@@ -21,3 +21,5 @@ Our technology stack includes:
 - **Large Language Models (LLMs)**: For natural language processing and interaction.
 - **ROS (Robot Operating System)**: For robot control and automation.
 - **Python**: For backend development and algorithm implementation.
+- **NLP (Natural Language Processing)**: For understanding and processing user commands.
+- **Simulations**: For testing and developing robot behaviors in a virtual environment.
