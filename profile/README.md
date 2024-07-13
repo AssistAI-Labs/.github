@@ -2,7 +2,8 @@
 
 # AssistAI Labs
 
-AssistAI Labs builds smart home robots that tackle chores & free up your time.
+Welcome to AssistAI Labs, where we are revolutionizing home management with our innovative AI-powered robots. Our mission is to simplify household chores and provide convenience, security, and a stress-free living environment for everyone.
+
 
 Imagine: Effortless vacuuming, laundry made easy, and even a helping hand with daily tasks.
 
