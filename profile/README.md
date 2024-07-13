@@ -4,8 +4,7 @@
 
 Welcome to AssistAI Labs, where we are revolutionizing home management with our innovative AI-powered robots. Our mission is to simplify household chores and provide convenience, security, and a stress-free living environment for everyone.
 
-
-Imagine: Effortless vacuuming, laundry made easy, and even a helping hand with daily tasks.
+## Introduction
 
 Get back to what matters most.  Relax, recharge, and let your robots do the rest.
 
