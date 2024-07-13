@@ -6,6 +6,6 @@ Welcome to AssistAI Labs, where we are revolutionizing home management with our 
 
 ## Introduction
 
-Get back to what matters most.  Relax, recharge, and let your robots do the rest.
+AssistAI Labs is dedicated to developing AI-powered robots that can handle a variety of household tasks. We aim to create a care-free environment where users no longer have to worry about mundane house management chores. Our current focus is on cleaning, washing dishes, and laundry tasks, with plans to expand to more tasks in the future.
 
 ### Welcome to the future of clean & carefree living!    ✨
