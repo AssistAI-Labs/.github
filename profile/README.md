@@ -31,3 +31,10 @@ Our vision is to create a world where household management is completely automat
 ## Contact
 
 For any inquiries, please contact us at:
+
+- **Email**: assistailabs@gmail.com
+- **Phone**: +91 8700510741
+
+## Social Media
+
+Stay updated with our latest news and updates:
