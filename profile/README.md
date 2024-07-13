@@ -38,3 +38,9 @@ For any inquiries, please contact us at:
 ## Social Media
 
 Stay updated with our latest news and updates:
+
+- **Website**: [assistai-labs.github.io](https://assistai-labs.github.io)
+- **Instagram**: [@assistailabs](https://www.instagram.com/assistailabs)
+- **Twitter**: [@AssistAILabs](https://twitter.com/AssistAILabs)
+- **LinkedIn**: [AssistAI Labs](https://www.linkedin.com/company/assistailabs)
+- **YouTube**: [AssistAI Labs YouTube Channel](https://www.youtube.com/@AssistAILabs)
