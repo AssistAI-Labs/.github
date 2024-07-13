@@ -1,6 +1,6 @@
 ![Black and Purple Gradient Artificial Inteligence Video](https://github.com/AssistAI-Labs/.github/assets/67017828/7da73db2-2414-4f36-8f67-bec5540422c3)
 
-## Tired of housework?
+# AssistAI Labs
 
 AssistAI Labs builds smart home robots that tackle chores & free up your time.
 
