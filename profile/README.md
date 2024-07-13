@@ -23,3 +23,11 @@ Our technology stack includes:
 - **Python**: For backend development and algorithm implementation.
 - **NLP (Natural Language Processing)**: For understanding and processing user commands.
 - **Simulations**: For testing and developing robot behaviors in a virtual environment.
+
+## Vision
+
+Our vision is to create a world where household management is completely automated, allowing people to focus on what truly matters. By leveraging cutting-edge AI and robotics technology, we aim to provide solutions that enhance quality of life, particularly for busy professionals and elderly individuals.
+
+## Contact
+
+For any inquiries, please contact us at:
