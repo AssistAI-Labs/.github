@@ -14,3 +14,10 @@ AssistAI Labs is dedicated to developing AI-powered robots that can handle a var
 - **Mobile App**: Manage and monitor your robot remotely through our user-friendly mobile app.
 - **Autonomous Operation**: Intelligent algorithms allow the robot to perform tasks with minimal human intervention.
 - **Affordable Solutions**: Our goal is to make advanced home automation accessible and affordable for everyone.
+
+## Technologies
+
+Our technology stack includes:
+- **Large Language Models (LLMs)**: For natural language processing and interaction.
+- **ROS (Robot Operating System)**: For robot control and automation.
+- **Python**: For backend development and algorithm implementation.
