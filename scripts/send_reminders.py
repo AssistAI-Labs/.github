@@ -28,7 +28,7 @@ def main():
             for card in column.get_cards():
                 issue = card.get_content()
                 if issue and isinstance(issue, github.Issue.Issue):
-                    deadline_str = issue.raw_data.get('deadline')
+                    deadline_str = issue.raw_data.get('Deadline')
                     if deadline_str:
                         deadline = datetime.strptime(deadline_str, "%Y-%m-%d")
                         if now <= deadline <= soon:
