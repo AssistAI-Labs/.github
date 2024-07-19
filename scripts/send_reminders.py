@@ -32,7 +32,7 @@ def main():
                     if deadline_str:
                         deadline = datetime.strptime(deadline_str, "%Y-%m-%d")
                         if now <= deadline <= soon:
-                            assignees = [user.email for user in issue.assignees]
+                            assignees = ['harshit0414@gmail.com','kunalbaghel995@gmail.com','guarika513@gmail.com']
                             for assignee in assignees:
                                 send_email(
                                     to_email=assignee,
